@@ -15,6 +15,7 @@ Un aperçu en vidéo, c'est toujours mieux !
 Etant donné que nous avons "gagné", nous avons dû réaliser 2 vidéos (démonstration technique + pitch vidéo).
 
 Vidéo de démonstration : https://youtu.be/1nlNrQkRg5o
+
 Pitch vidéo (parodie de Pimp My Ride) : https://youtu.be/evRiVajbN5g
 
 ### 📌 Consignes du projet :
