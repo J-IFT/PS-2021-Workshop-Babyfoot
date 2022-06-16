@@ -26,8 +26,7 @@ A vous de proposer de nouvelles fonctionnalités en utilisant le matériel propo
 
 Les points essentiels à respecter :
 - Travail collectif et coopération dans l’équipe
-- Une solution simple mais fonctionnelle à préférer à une
-solution complexe et non maîtrisée
+- Une solution simple mais fonctionnelle à préférer à une solution complexe et non maîtrisée
 - Réponse aux besoins des apprenant(e)s du campus
 - Créativité et accessibilité
 - Partage et collaboration
@@ -46,7 +45,8 @@ SAVOIR-ÊTRE :
 - Travailler de façon autonome vers un objectif commun à toute l’équipe
 - Collaborer et travailler en équipe
 - Communiquer et rendre compte auprès de ses partenaires et de sa hiérarchie
-SAVOIR-FAIRE
+
+SAVOIR-FAIRE :
 - Rechercher des solutions innovantes
 - Concevoir une solution digitale innovante
 
